@@ -1,0 +1,76 @@
+body{
+    background-color: dimgray;
+}
+
+.container{
+    width: 99%;
+    background-color: whitesmoke;
+}
+
+.container-2{
+    margin: 8px;
+    background-color: dimgray;
+}
+
+    header{
+        text-align: center;
+        width: auto;
+        padding: 25px;
+        margin: 8px;
+        color: dimgray;
+    }
+
+    nav{
+        text-align: center;
+        width: auto;
+        padding: 25px;
+        margin: 8px;
+        color: dimgray;
+    }
+
+    section{
+        text-align: center;
+        width: 60%;
+        padding: 75px;
+        margin: 15px;
+        color: dimgray;
+    }
+
+    article{
+        text-align: center;
+        width: 525px;
+        padding: 50px;
+        margin: 8px;
+        color: whitesmoke;
+    }
+
+    h3{
+        text-align: center;
+        width: 500px;
+        padding: 15px;
+        margin: 8px;
+        color: dimgray;
+    }
+
+    p{
+        text-align: center;
+        width: 500px;
+        padding: 15px;
+        margin: 8px;
+        color: dimgray;
+    }
+
+    aside{
+        width: 40%;
+        padding: 75px;
+        margin: 15px;
+        color: dimgray;
+    }
+
+    footer{
+        text-align: center;
+        width: auto;
+        padding: 25px;
+        margin: 8px;
+        color: dimgray;
+    }
